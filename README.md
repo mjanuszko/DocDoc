@@ -1,7 +1,10 @@
-# DocDoc
+# DocDocs - Document Management System
 
-## Document Management System
+[![NuGet Package](https://img.shields.io/badge/.NET%20-8.0-blue.svg)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+[![GitHub license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/mjanuszko/DocDoc/blob/main/LICENSE.md)
 
-DocDoc is an electronic document management system that allows you to store, find, and browse files like PDF documents. DocDoc simplifies document management, making files accessible and organized.
+DocDocs is an electronic document management system that allows you to store, find, and browse files like PDF documents. DocDocs simplifies document management, making files accessible and organized.
 
-DocDoc has been developed using the .NET 8.
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mjanuszko/DocDoc/blob/main/LICENSE.md) file for details.
