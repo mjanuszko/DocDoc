@@ -1,0 +1,6 @@
+@DocDocs.WebApi_HostAddress = http://localhost:5177
+
+GET {{DocDocs.WebApi_HostAddress}}/
+Accept: application/json
+
+###

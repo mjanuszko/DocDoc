@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocDocs.WebApi", "DocDocs.WebApi\DocDocs.WebApi.csproj", "{7698CC96-E3DA-49FF-ACEE-590ECE81EAB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocDocs.Domain", "DocDocs.Domain\DocDocs.Domain.csproj", "{5F78A138-69A7-4102-B5C2-64ABB3077D00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocDocs.Domain", "DocDocs.Domain\DocDocs.Domain.csproj", "{5F78A138-69A7-4102-B5C2-64ABB3077D00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocDocs.Application", "DocDocs.Application\DocDocs.Application.csproj", "{2DEB7282-AF1E-4A50-98DF-0F66F573C4C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocDocs.Application", "DocDocs.Application\DocDocs.Application.csproj", "{2DEB7282-AF1E-4A50-98DF-0F66F573C4C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocDocs.Infrastructure", "DocDocs.Infrastructure\DocDocs.Infrastructure.csproj", "{00AABF92-80CD-4CBD-B460-2C4E7B3C5D8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocDocs.Infrastructure", "DocDocs.Infrastructure\DocDocs.Infrastructure.csproj", "{00AABF92-80CD-4CBD-B460-2C4E7B3C5D8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocDocs.WebApi", "DocDocs.WebApi\DocDocs.WebApi.csproj", "{6F79E0B0-623F-4307-8575-327797E1132E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7698CC96-E3DA-49FF-ACEE-590ECE81EAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7698CC96-E3DA-49FF-ACEE-590ECE81EAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7698CC96-E3DA-49FF-ACEE-590ECE81EAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7698CC96-E3DA-49FF-ACEE-590ECE81EAB9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5F78A138-69A7-4102-B5C2-64ABB3077D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5F78A138-69A7-4102-B5C2-64ABB3077D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F78A138-69A7-4102-B5C2-64ABB3077D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{00AABF92-80CD-4CBD-B460-2C4E7B3C5D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00AABF92-80CD-4CBD-B460-2C4E7B3C5D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00AABF92-80CD-4CBD-B460-2C4E7B3C5D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F79E0B0-623F-4307-8575-327797E1132E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F79E0B0-623F-4307-8575-327797E1132E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F79E0B0-623F-4307-8575-327797E1132E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F79E0B0-623F-4307-8575-327797E1132E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
