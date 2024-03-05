@@ -3,7 +3,7 @@
 [![NuGet Package](https://img.shields.io/badge/.NET%20-8.0-blue.svg)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 [![GitHub license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/mjanuszko/DocDoc/blob/main/LICENSE.md)
 
-## About
+## About DocDocs
 
 DocDocs is an electronic document management system that allows you to store, find, and browse files like PDF documents. DocDocs simplifies document management, making files accessible and organized.
 
